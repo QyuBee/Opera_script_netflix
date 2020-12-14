@@ -5,4 +5,4 @@ It install Widevine and the H.264 codec.
 
 I use 
 + https://gist.github.com/ruario/3c873d43eb20553d5014bd4d29fe37f1#file-latest-widevine-sh
-+ https://github.com/iteufel/nwjs-ffmpeg-prebuilt/blob/master/guides/build_linux.md
++ https://github.com/iteufel/nwjs-ffmpeg-prebuilt/releases
